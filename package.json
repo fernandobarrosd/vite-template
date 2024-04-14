@@ -11,6 +11,7 @@
     "build": "vite build"
   },
   "devDependencies": {
+    "eslint": "^9.0.0",
     "vite": "^5.2.8"
   }
 }
