@@ -4,6 +4,7 @@
   "repository": "https://github.com/fernandobarrosd/vite-template.git",
   "author": "Fernando de Barros <fdebarros0910-2004@hotmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "start:dev": "vite",
     "start": "vite preview",
